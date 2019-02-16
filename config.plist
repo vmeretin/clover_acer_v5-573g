@@ -218,7 +218,7 @@
 	</dict>
 	<key>Boot</key>
 	<dict>
-		<key>Arguments</key>
+		<key>#Arguments</key>
 		<string>-v</string>
 		<key>#DefaultLoader</key>
 		<string>boot.efi</string>
